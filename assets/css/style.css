@@ -277,7 +277,7 @@ ul {
 }
 
 #content-up .heading{
-    color: #fff;
+    color: blue;
     text-align: center;
     letter-spacing: 4px;
     font-size: 30px;
@@ -286,7 +286,7 @@ ul {
 }
 
 #content-up .sub-heading{
-    color: #fff;
+    color: blue;
     text-align: center;
     font-style: italic;
     opacity: 0.6;
